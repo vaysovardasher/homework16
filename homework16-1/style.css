@@ -164,3 +164,16 @@
   padding-top: 50px;
   width: 27%;
 }
+.container4{
+    width: 85%;
+    height: 50vh;
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+}
+.in-container6{
+    margin-left: 30px;
+}
+.in-container7{
+    margin-left: 50px;
+}
