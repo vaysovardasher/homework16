@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container1 {
+    width: 100%;
+    height: 110vh;
+}
+.header {
+  width: 95%;
+  height: 40px;
+  padding: 12px 0px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  gap: 20px; 
+}
+.img1{
+    margin-left: 20px;
+}
+.text1{
+    padding-left: 239px;
+    color: rgba(95, 184, 72, 1);
+    font-size: 20px;
+    text-decoration: none;
+}
+.text2{
+    padding-left: 5px;
+    color: rgba(44, 56, 71, 1);
+    font-size: 20px;
+    text-decoration: none;
+}
+.size-6{
+    max-width: 25px;
+
+}
+.button1{
+    width: 130px;
+    height: 40px;
+    border-radius: 22px;
+    background-color: rgba(73, 73, 73, 1);
+    color: white;
+    border: none;
+}
+.in-container1{
+    width: 100%;
+    display: flex;
+
+}
+.div1{
+    width: 500px;
+    height: 500px;
+    margin-left: 180px;
+    margin-top: 150px;
+    padding-left: 30px;
+}
+.title1{
+    font-size: 60px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+.span1{
+    color: rgba(95, 184, 72, 1);
+}
+.subtitle1{
+    max-width: 480px;
+    font-size: 19px;
+}
+.button2{
+    width: 160px;
+    height: 54px;
+    border-radius: 28px;
+    background-color: rgba(100, 187, 71, 1);
+    color: white;
+    border: none;
+    margin-top: 45px;
+    font-size: 18px;
+
+}
+.div2{
+    width: 700px;
+    height: 770px;
+    background-image: url("./bg\ elements.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -90px;
+}
+.img2{
+    margin-right: -59px;
+}
