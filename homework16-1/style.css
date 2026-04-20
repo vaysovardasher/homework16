@@ -89,3 +89,52 @@
 .img2{
     margin-right: -59px;
 }
+.container2{
+    width: 70%;
+    height: 63vh;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.in-cont{
+    width: 80%;
+    height: 250px;
+    margin: auto;
+    display: flex;
+    gap: 40px;
+}
+.div3{
+    width: 33%;
+    height: 100%;
+    flex-direction: column;
+    text-align: center;
+}
+.img3{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.subtitle3{
+    max-width: 250px;
+    font-size: 15px;
+    padding-left: 17px;
+    padding-top: 8px;
+}
+.in-cont2{
+    width: 58%;
+    height: 110px;
+    margin: auto;
+    margin-top: 13px;
+    display: flex;
+}
+.div4{
+    width: 33%;
+    height: 100%;
+    text-align: center;
+}
+.title3{
+    padding-top: 10px;
+    font-weight: 900;
+    font-size: 37px;
+}
