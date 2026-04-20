@@ -183,11 +183,9 @@
   display: flex;
   margin-top: 180px;
   margin-right: 50px;
-  border: 1px dashed black;
 }
 .in-container8 {
   width: 50%;
-  border: 1px dotted gray;
 }
 .in-container9 {
   width: 55%;
@@ -200,4 +198,35 @@
   display: flex;
   gap: 15px;
   margin-bottom: 10px;
+}
+.container6 {
+  width: 85%;
+  height: 560px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.subtitle5 {
+  max-width: 250px;
+  font-size: 15px;
+  padding-left: 28px;
+  padding-top: 8px;
+}
+.div5 {
+  width: 33%;
+  height: 430px;
+  flex-direction: column;
+  text-align: center;
+  border: 0.2px solid rgba(128, 128, 128, 0.525);
+  border-radius: 13px;
+}
+.button3 {
+  width: 160px;
+  height: 54px;
+  border-radius: 28px;
+  background-color: rgba(100, 187, 71, 1);
+  color: white;
+  border: none;
+  margin-top: 45px;
+  font-size: 18px;
 }
